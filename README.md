@@ -22,7 +22,7 @@ GitHub can display the saved notebook, but it cannot execute its Python kernel o
 widgets. Clone the repository and create the isolated environment:
 
 ```bash
-git clone git@github.com:MLee-Sinphy/Kepler.git
+git clone git@github.com:mlee-code/Kepler.git
 cd Kepler
 python3 -m venv .venv
 source .venv/bin/activate
